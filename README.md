@@ -18,7 +18,7 @@ Using the Netsparker Cloud API, run a scan using a profile against a url.  You c
 
 ## How to Use (Runner)
 
-`netsparker-scan-runner --help`
+`netsparker-scan- --help`
 
 ```
 Netsparker Scan 
