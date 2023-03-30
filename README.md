@@ -21,7 +21,7 @@ Using the Netsparker Cloud API, run a scan using a profile against a url.  You c
 `netsparker-scan-runner --help`
 
 ```
-Netsparker Scan Runner
+Netsparker Scan 
 
   Run a scan against your Netsparker Cloud instance using a configured profile.
   Can optionally wait for the report.
